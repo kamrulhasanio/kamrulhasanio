@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamrulhasanio](https://github.com/kamrulhasanio)
 
-- 📝 I regularly write articles on [https://t.me/techshojja](https://t.me/techshojja)
+- 📝 I regularly write articles on [TechShojja](https://techshojja.xyz)
 
 - 📫 How to reach me **kamrulhasan@tuta.io**
 

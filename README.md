@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kamrulhasanio](https://github.com/kamrulhasanio)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kamrulhasanio)
 
 - 📝 I regularly write articles on [TechShojja](https://techshojja.xyz)
 

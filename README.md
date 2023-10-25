@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhasanio&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulhasanio" /> </p>
 
-- 🔭 I’m currently working on **learning**
+- 🔭 I’m currently working on **Skill Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 

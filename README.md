@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [TechShojja](https://techshojja.xyz)
 
-- 📫 How to reach me **kamrulhasan@tuta.io**
+- 📫 How to reach me **mail@kamrulhasan.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
